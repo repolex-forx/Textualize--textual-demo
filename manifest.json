@@ -1,0 +1,28 @@
+{
+  "manifest_version": "1.0",
+  "org": "Textualize",
+  "repo": "textual-demo",
+  "versions": [
+    {
+      "commit": "babcbd1b742ba893e834fafb6f82930ae18cad65",
+      "parsed_at": "2026-10-28T12:19:28.681106+00:00",
+      "filetree": "filetree/babcbd1b742ba893e834fafb6f82930ae18cad65.nq.gz",
+      "blobs": [
+        "blob/3261deabb08de29efaedb9929ab23a0ec43a03e1.nq.gz",
+        "blob/47a2c9eed199a62600b3265ddb5d046d6fb978c1.nq.gz",
+        "blob/c7ce0602dfe420ef39f23525a260952743788870.nq.gz",
+        "blob/82f927558a3dff0ea8c20858856e70779fd02c93.nq.gz",
+        "blob/3a883478402f12504551a1063f3f183fc48ade20.nq.gz",
+        "blob/e4fba2183587225f216eeada4c78dfab6b2e65f5.nq.gz",
+        "blob/df61f714ce6bf49b8815d4576dbf6376d204b09a.nq.gz",
+        "blob/044c47183f85d2d99baa99611cb469f39d1ef1a5.nq.gz",
+        "blob/608bb060f69ea9e2968b50620b767569b132eb67.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
