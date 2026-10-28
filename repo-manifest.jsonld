@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Textualize/textual-demo/commit/babcbd1b742ba893e834fafb6f82930ae18cad65",
       "git:hexsha": "babcbd1b742ba893e834fafb6f82930ae18cad65",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
